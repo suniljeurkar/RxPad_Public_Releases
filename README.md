@@ -60,10 +60,9 @@
 
 ### 🐞 Support & feedback
 - Use **Help → Report a bug** from inside the app (includes helpful context).
-- Or contact: **<add your preferred contact here>**.
+- Or contact: **suniljeurkar@gmail.com**.
 
-If you find this useful and would like to support development, you can **donate**:  
-**<add UPI / PayPal / BuyMeACoffee link here>**
+If you find this useful and would like to support development, you can **donate within the app**:
 
 ---
 
