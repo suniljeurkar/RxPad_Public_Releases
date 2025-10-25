@@ -1,0 +1,30 @@
+RXPAD PRESCRIBER — FREEWARE LICENSE
+
+Copyright (c) <Year> <Your Name>
+
+This software is provided as freeware. You may install and use it without charge.
+You may not sell, rent, or charge any fee for this software or any copy thereof.
+
+DISTRIBUTION & ACTIVATION
+Distribution is intentionally restricted by device activation. Activation tokens
+are provided by the author to intended users. Do not redistribute activation tokens.
+
+NO WARRANTY
+This software is provided “AS IS”, without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a
+particular purpose, and noninfringement. In no event shall the authors be liable
+for any claim, damages or other liability, whether in an action of contract, tort
+or otherwise, arising from, out of or in connection with the software or the use
+or other dealings in the software.
+
+DATA & BACKUPS
+The application stores data locally and attempts automatic local backups.
+However, local backups do not guarantee prevention of data loss. You are solely
+responsible for keeping adequate backups of your data.
+
+PRIVACY
+The application does not collect telemetry and can operate fully offline after activation.
+
+CONTACT
+Report issues using the in-app “Report a bug” option, or contact the author at:
+<your contact>

@@ -1,0 +1,17 @@
+@"
+# virtual env
+.venv/
+env/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Do NOT commit installers or hashes (upload them as release assets)
+*.exe
+*.msi
+*.zip
+*.sha256
+"@ | Out-File -Encoding utf8 .gitignore
